@@ -1,4 +1,4 @@
-# ©  - MetaVoid (Moezilla) And Alexa Team For Modification
+# ©  - MetaVoid (Moezilla) And LIFESTYLE Team For Modification
 # Give Credit ❣️Day
 
 from pyrogram import Client, filters
@@ -43,22 +43,22 @@ async def chatbot(client, message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
-💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+💥 A ᴘᴏᴡᴇʀғᴜʟ KI ʙᴏᴛ
+ᴏғ ♻️ LIFESTYLE 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/Give_Me_Heart)
-┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AsadSupport)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/AlexaFed_Logs)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/jankarikiduniya/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/Shayri_Music_Lovers)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/FAST_CRECKER
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/https://t.me/MUSIC_FOR3VER)
+┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/LIFESTYLE_BOTS)
+┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/MUSIC_FOR3VER)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/AnitXD/VIP-ID-CHATBOT)
+┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/MUSIC_FOR3VER)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] https://t.me/MUSIC_FOR3VER""",
         reply_markup=InlineKeyboardMarkup(
-            [[InlineKeyboardButton("🌼 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💮", url=f"https://t.me/Alexa_Help")]]
+            [[InlineKeyboardButton("🌼 LIFESTYLE  💮", url=f"https://t.me/LIFESTYLE_BOTS")]]
         ),
     ) 
 
@@ -67,7 +67,7 @@ IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
     filters.command("alive", prefixes=["/", ".", "?", "-"])
     & ~filters.private)
 async def start(client, message):
-    await message.reply_text(f"**ᴀʟᴇxᴀ ᴀɪ ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
+    await message.reply_text(f"**LIFESTYLE  ᴜsᴇʀʙᴏᴛ ғᴏʀ ᴄʜᴀᴛᴛɪɴɢ ɪs ᴡᴏʀᴋɪɴɢ**")
     
     
 @client.on_message(
@@ -86,7 +86,7 @@ async def alexaai(client: Client, message: Message):
 
    if not message.reply_to_message:
        alexadb = MongoClient(MONGO_URL)
-       alexa = alexadb["AlexaDb"]["Alexa"] 
+       alexa = alexadb["lifestyle db"]["Alexa"] 
        is_alexa = alexa.find_one({"chat_id": message.chat.id})
        if not is_alexa:
            await client.send_chat_action(message.chat.id, "typing")

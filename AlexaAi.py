@@ -43,17 +43,17 @@ async def chatbot(client, message):
     await message.reply_photo(
         photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
-💥 A ᴘᴏᴡᴇʀғᴜʟ KI ʙᴏᴛ
+💥 A ᴘᴏᴡᴇʀғᴜʟ 🇮🇳 ʙᴏᴛ
 ᴏғ ♻️ LIFESTYLE 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/FAST_CRECKER
+┣★ ᴄʀᴇᴀᴛᴇʀ [LIFESTYLE](https://t.me/FAST_CRECKER
 ┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/https://t.me/MUSIC_FOR3VER)
 ┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/LIFESTYLE_BOTS)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/MUSIC_FOR3VER)
+┣★ LIFESTYLE=- LOGS](https://t.me/MUSIC_FOR3VER)
 ┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/AnitXD/VIP-ID-CHATBOT)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/MUSIC_FOR3VER)
+┣★ ɴᴇᴛᴡᴏʀᴋ [LIFESTYLE](https://t.me/MUSIC_FOR3VER)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
 IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] https://t.me/MUSIC_FOR3VER""",

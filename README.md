@@ -1,7 +1,7 @@
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄🌷
 
 <!--
-**THE-VIP-BOY-OP/THE-VIP-BOY-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**𝐓𝐇𝐄-𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄/𝐓𝐇𝐄-𝐊𝐈𝐍𝐆-𝐎𝐅-𝐋𝐈𝐅𝐄** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<b>★ 𝗩𝗜𝗣 𝗜𝗗-𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ★</b>
+<b>★ 𝐋𝐈𝐅𝐄𝐒𝐓𝐘𝐋𝐄 𝗜𝗗-𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ★</b>
 </p>
 
 
@@ -27,6 +27,6 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TheTeamAlexa/AlexaAiMachineBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnitXD/VIP-ID-CHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-dark?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
   ━━━━━━━━━━━━━━━━━━━━

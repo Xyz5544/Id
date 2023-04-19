@@ -1,7 +1,7 @@
 {
-  "name": "Alexa AI Userbot",
+  "name": "CPL JET",
   "description": "Advanced Database Backend Chatbot Based On Pyrogram Userbot",
-  "logo": "https://telegra.ph/file/71fdfc3bca2950bf3878c.jpg",
+  "logo": "https://telegra.ph/file/806378d479156182d6c3d.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -32,3 +32,4 @@
         }
     ]
 }
+ 

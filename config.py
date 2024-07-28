@@ -11,7 +11,7 @@ STRING_SESSION = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", None)
 SUPPORT_GRP = getenv("SUPPORT_GRP", "MEETUP_ZONE")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "AB_KRISHNA_UFF")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Ur_devop")
 
 # Random Start Images
 IMG = [
